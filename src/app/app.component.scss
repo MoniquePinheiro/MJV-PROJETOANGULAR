@@ -1,0 +1,44 @@
+body {
+    font-family: 'Open Sans', Arial, sans-serif;
+    letter-spacing: 1px;
+}
+
+.cabecalho h1 {
+    font-weight: bold;
+}
+
+.titulo-principal {
+    text-align: center;
+    font-size: 80px;
+    font-weight: 400;
+    font-family: roboto;
+}
+
+.textomaior {
+    font-size: 16px;
+    text-align: center;
+}
+.textomenor {
+    font-size: 14px;
+    text-align: center;
+}
+
+/*formato para colunas*/
+.textos { 
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 20px;
+}
+
+.texto1 {
+    display: inline-block;
+    width: 45%;
+    margin: 10px;
+}
+
+.texto2 {
+    display: inline-block;
+    width: 45%;
+    margin: 10px;
+}
+
